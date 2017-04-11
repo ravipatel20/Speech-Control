@@ -1,0 +1,27 @@
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.exe.config
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.exe
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.pdb
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.Properties.Resources.resources
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.csproj.GenerateResource.Cache
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.exe
+c:\users\varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.pdb
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\en\Speech.resources.dll
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\en\Speech.resources.dll
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\itextsharp.dll
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\itextsharp.xml
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.SpeechControl.resources
+C:\Users\Varnit\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.SpeechControl.en.resources
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\bin\Debug\Speech.exe.config
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.exe
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.pdb
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\bin\Debug\Speech.exe
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\bin\Debug\Speech.pdb
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\bin\Debug\en\Speech.resources.dll
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\bin\Debug\itextsharp.xml
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.SpeechControl.resources
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.Properties.Resources.resources
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.SpeechControl.en.resources
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\Speech.csproj.GenerateResource.Cache
+C:\Users\Ravi\Documents\SpeechProj\Speech\Speech\obj\Debug\en\Speech.resources.dll
